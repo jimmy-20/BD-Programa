@@ -1,0 +1,320 @@
+C:\Proyectos C Sharp\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Proyectos C Sharp\MiSistema\bin\Debug\MiSistema.exe
+C:\Proyectos C Sharp\MiSistema\bin\Debug\MiSistema.pdb
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.exe
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.pdb
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Proyectos C Sharp\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Carpeta Csharp\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Carpeta Csharp\MiSistema\bin\Debug\MiSistema.exe
+C:\Carpeta Csharp\MiSistema\bin\Debug\MiSistema.pdb
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.exe
+C:\Carpeta Csharp\MiSistema\obj\Debug\MiSistema.pdb
+C:\Proyecto Ejemplo\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Proyecto Ejemplo\MiSistema\bin\Debug\MiSistema.exe
+C:\Proyecto Ejemplo\MiSistema\bin\Debug\MiSistema.pdb
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.exe
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.pdb
+C:\Proyecto Ejemplo\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Proyecto 20 - 03- 2021\MiSistema\bin\Debug\MiSistema.exe
+C:\Proyecto 20 - 03- 2021\MiSistema\bin\Debug\MiSistema.pdb
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.exe
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.pdb
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarCliente.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarProducto.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmFactura.resources
+C:\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\bin\Debug\MiSistema.exe
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\bin\Debug\MiSistema.pdb
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarCliente.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarProducto.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmFactura.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.exe
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.pdb
+C:\Users\WALGER HERRERA\Desktop\Datos\Curso SQL Con Sharp\Proyecto Ejemplo\Proyecto 20 - 03- 2021\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\MiSistema.exe.config
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\MiSistema.exe
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\MiSistema.pdb
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.Form1.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarCliente.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarProducto.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmFactura.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.exe
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.pdb
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\EnvDTE.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\stdole.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\EnvDTE80.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\VSLangProj.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\VSLangProj80.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.MSXML.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.Build.Framework.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\VSLangProj2.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.exe.config
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.Reporte.resources
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csproj.CopyComplete
+D:\Proyectos Visual Studio\Version Final\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmMostrarFactura.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\MiSistema.exe
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\MiSistema.pdb
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\EnvDTE.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\stdole.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\EnvDTE80.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\VSLangProj.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\VSLangProj80.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.MSXML.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\VSLangProj2.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csprojAssemblyReference.cache
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.exe.config
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarCliente.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmBuscarProducto.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmFactura.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmMostrarFactura.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.View.Reporte.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.csproj.CopyComplete
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.exe
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\SistemaDEPEC\Proyecto 16-10-2021\MiSistema\obj\Debug\MiSistema.pdb
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\MiSistema.exe
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\MiSistema.pdb
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.AssemblyReference.cache
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmBuscarCliente.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmBuscarProducto.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmFactura.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmMostrarFactura.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.Reporte.resources
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.exe
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.pdb
+C:\Users\WALGER HERRERA\Desktop\Sistema Ejemplo\Versión 21-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmEmpleado.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\MiSistema.exe.config
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\MiSistema.exe
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\MiSistema.pdb
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.Form1.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.Properties.Resources.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmBuscarCliente.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmBuscarProducto.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmCliente.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmEmpleado.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmFactura.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmInicio.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmMostrarFactura.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.frmUsuario.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.View.Reporte.resources
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.csproj.CopyComplete
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.exe
+C:\Users\Pc\Desktop\Clase 26-10-2021\Proyecto\MiSistema\obj\Debug\MiSistema.pdb
